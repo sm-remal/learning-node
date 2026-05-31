@@ -35,10 +35,6 @@ export const productController = async (req: IncomingMessage, res: ServerRespons
             ...body
         }
         // console.log(newProduct);
-        
-
-
-
         res.writeHead(200, { "content-type": "application/json" });
         res.end(JSON.stringify({ message: "Product create successfully", 
             // data: product 
