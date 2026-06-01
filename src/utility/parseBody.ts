@@ -7,6 +7,7 @@ export const parseBody = (req: IncomingMessage) : Promise<any> => {
             body += chunk;
         })
         req.on("end", () => {
+            
             try {
                 resolve(JSON.parse(body));
             } catch (error) {
