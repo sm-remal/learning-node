@@ -9,6 +9,7 @@ export const RouteHandle = (req: IncomingMessage, res: ServerResponse) => {
     const method = req.method;
 
     if (url === "/" && method === "GET") {
+        
         // console.log("This is root route");
 
         res.writeHead(200, { "content-type": "application/json" });
