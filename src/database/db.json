@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Wireless Mouse",
         "category": "Electronics",
-        "price": 1200,
+        "price": 900,
         "stock": 25,
         "brand": "Logitech",
         "rating": 4.5
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Mechanical Keyboard",
         "category": "Electronics",
-        "price": 3500,
+        "price": 3200,
         "stock": 15,
         "brand": "Redragon",
         "rating": 4.7
@@ -30,7 +30,7 @@
         "id": 4,
         "name": "Smart Watch",
         "category": "Wearable",
-        "price": 5500,
+        "price": 7500,
         "stock": 8,
         "brand": "Xiaomi",
         "rating": 4.4
@@ -57,7 +57,7 @@
         "id": 7,
         "name": "Bluetooth Speaker",
         "category": "Audio",
-        "price": 3200,
+        "price": 3400,
         "stock": 12,
         "brand": "JBL",
         "rating": 4.8
@@ -66,7 +66,7 @@
         "id": 8,
         "name": "External SSD 1TB",
         "category": "Storage",
-        "price": 9500,
+        "price": 17500,
         "stock": 6,
         "brand": "Samsung",
         "rating": 4.9
